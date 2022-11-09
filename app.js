@@ -1,2 +1,3 @@
-const message = 'hola mundo';
-console.log(message);
+export default function start(){
+    console.log('Starting app...');
+}
